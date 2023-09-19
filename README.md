@@ -24,6 +24,10 @@
 
 Administrative questions should be directed to Gábor Recski
 
+
+### Course material
+Available from this repository. Created by [Judit Ács](https://hlt.bme.hu/en/judit), [Kinga Gémes](https://tiss.tuwien.ac.at/person/341880.html), [Ádám Kovács](https://tiss.tuwien.ac.at/person/341881.html), and [Gábor Recski](https://tiss.tuwien.ac.at/person/336863.html), based on [this BME course](https://github.com/bmeaut/python_nlp_2021_spring).
+
 ### Schedule
 
 Date|Topic| |
