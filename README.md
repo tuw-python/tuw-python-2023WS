@@ -13,7 +13,7 @@
 
 - Daily from 10.30 - 12.00 (lectures) and 13.15 - 15.30 (practice)
 
-- Using [Zoom](https://tuwien.zoom.us/j/94257349304?pwd=dVE4WmJMSlVoTEtRbDJvOWExU2wxQT09) and [Slack](https://join.slack.com/t/tuw-python/shared_invite/zt-1g2dom5fa-M~lZwH56tsfuLn67U3jGrw)
+- Using [Zoom](https://tuwien.zoom.us/j/94257349304?pwd=dVE4WmJMSlVoTEtRbDJvOWExU2wxQT09) and [Slack](https://join.slack.com/t/tuw-python/shared_invite/zt-23ta43ntd-czwMmrdSUT2d1EgQ~x4LyA)
 
 ### Instructors
 
