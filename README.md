@@ -17,7 +17,7 @@
 
 ### Instructors
 
-- [Varvara Arzt]()
+- [Varvara Arzt](https://tiss.tuwien.ac.at/person/314093)
 - [Anna-Lena Klug](https://tiss.tuwien.ac.at/person/383861)
 - [Gábor Recski](https://tiss.tuwien.ac.at/person/336863)
 - [Moritz Staudinger](https://tiss.tuwien.ac.at/person/310016)
