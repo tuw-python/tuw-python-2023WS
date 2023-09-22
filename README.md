@@ -32,7 +32,7 @@ Available from this repository. Created by [Judit Ács](https://hlt.bme.hu/en/ju
 
 Date|Topic| |
 ----|-----|--|
-09/25/2023 | Introduction to Python, basic types. Using git for version control. | |
+09/25/2023 | Introduction to Python, basic types. | |
 09/26/2023 | Advanced types, operators, strings. Functions, lambda functions. | |
 09/27/2023 | Object-oriented programming. Classes, attributes, inheritence, magic functions, static methods. | |
 09/28/2023 | List comprehensions, decorators, functional programming. | |
